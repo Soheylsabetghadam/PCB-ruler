@@ -10,9 +10,9 @@ A custom-designed PCB ruler that includes:
 
 ## Preview
 
-[ُُTop View](image/mages/T.png)
+[Top View](image/T.png)
 
-[Bottom View](image/mages/B.png)
+[Bottom View](image/B.png)
 
 ## How to Use
 
